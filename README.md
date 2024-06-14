@@ -9,9 +9,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
  
   - [Elk Stack Deployment](https://github.com/Erik801/Automated-ELK-Stack-Deployment)
-  - [Active Directory Bulk User Creation](https://github.com/josmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PoerShell-Integrity-FIM)
-
+  - [Active Directory Bulk User Creation](httposmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https:oerShell-Integrity-FIM)
 
 <h2>📺 Interesting YouTube Videos</h2>
 
