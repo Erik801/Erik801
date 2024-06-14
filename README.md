@@ -1,7 +1,9 @@
 <h1>Hi, I'm Erik! <br/><a href="https://github.com/Erik801" <a href="www.linkedin.com/in/erik-nelson7564">Cybersecurity/Networking Professional</a>
 
 <h2>👨‍💻 Certificates Earned:</h2>
-  - 
+  CompTIA Security+ (
+  Antisyphon Certificates (
+  IKM TechChek Test (
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
