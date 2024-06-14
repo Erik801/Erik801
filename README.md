@@ -9,8 +9,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
  
   - [Elk Stack Deployment](https://github.com/Erik801/Automated-ELK-Stack-Deployment)
-  - [Active Directory Bulk User Creation](httposmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https:oerShell-Integrity-FIM)
+  - [Business/Manager PowerPoint Presentations](https://github.com/Erik801/PowerPoint-Presentations)
+  - [Final Engagement: Attack, Defense & Analysis of a Vulnerable Network](https://github.com/Erik801/PowerPoint-Presentations)
 
 <h2>📺 Interesting YouTube Videos</h2>
 
